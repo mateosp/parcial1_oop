@@ -27,4 +27,6 @@ password ---|> Verification
 @enduml
 """
 
+El diagrama uml contiene dos clases, la clase password la cual contiene la contraseña y la clase verificacion la cual comprueba si la contraseña cumple con los requisitos. 
+
 Para correr el codigo, debe abrir el archivo > code_to_run.py
